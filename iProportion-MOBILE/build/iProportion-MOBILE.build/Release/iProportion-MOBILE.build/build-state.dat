@@ -1,0 +1,75 @@
+TiProportion-MOBILE
+v7
+r1
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/MainWindow.xib
+c000000004C9325EA0000000000004EAD
+t1284711914
+s20141
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Release/iProportion-MOBILE.app
+t2
+s0
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Release/iProportion-MOBILE.app/Contents/Info.plist
+t2
+s0
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Release/iProportion-MOBILE.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Release/iProportion-MOBILE.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Release/iProportion-MOBILE.app/Contents/Resources/iProportionBackground.png
+t2
+s0
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Release/iProportion-MOBILE.app/Contents/Resources/iProportionLandscape.png
+t2
+s0
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Release/iProportion-MOBILE.app/Contents/Resources/iProportion_MOBILEViewController.nib
+t2
+s0
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportionBackground.png
+c000000004C962ECF0000000000016E53
+t1284910799
+s93779
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportionLandscape.png
+c000000004C9627E0000000000001E500
+t1284909024
+s124160
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILEViewController.xib
+c000000004C962F7900000000000610DE
+t1284910969
+s397534
+
+NiProportion_MOBILE-Info.plist
+c000000004C9325EA000000000000038D
+t1284711914
+s909
+
+CCompileXIB /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/MainWindow.xib
+r0
+
+CCompileXIB /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILEViewController.xib
+r0
+
+CCpResource build/Release/iProportion-MOBILE.app/Contents/Resources/iProportionBackground.png iProportionBackground.png
+r0
+
+CCpResource build/Release/iProportion-MOBILE.app/Contents/Resources/iProportionLandscape.png iProportionLandscape.png
+r0
+
+CProcessInfoPlistFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Release/iProportion-MOBILE.app/Contents/Info.plist iProportion_MOBILE-Info.plist
+r0
+
+CTouch /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Release/iProportion-MOBILE.app
+r0
+

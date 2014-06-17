@@ -1,0 +1,1494 @@
+TiProportion-MOBILE
+v7
+r0
+t355004575.659291
+cCheck dependencies
+cCpResource build/Debug-iphoneos/iProportion.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Info.plist iProportion-Info.plist
+cCompileXIB /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/MainWindow.xib
+cCompileXIB /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILEViewController.xib
+cCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportionLandscape.png iProportionLandscape.png
+cCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportionBackground.png iProportionBackground.png
+cCpResource build/Debug-iphoneos/iProportion.app/iProportion-Icon.jpg iProportion-Icon.jpg
+cCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iprop_icon.png iprop_img/iprop_icon.png
+cCpResource build/Debug-iphoneos/iProportion.app/iProportion.html iProportion.html
+cCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon-Small.png Icon-Small.png
+cCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon-Small@2x.png Icon-Small@2x.png
+cCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon.png Icon.png
+cCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon@2x.png Icon@2x.png
+cProcessPCH /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-afsdfcibsqnqhlcsyfyostczjjyz/iProportion_MOBILE_Prefix.pch.gch iProportion_MOBILE_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-bjkxkufjujerdzcmqntojlkyeqlm/iProportion_MOBILE_Prefix.pch.gch iProportion_MOBILE_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/main.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEAppDelegate.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEViewController.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/propTextField.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/Reachability.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/Reachability.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/main.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEAppDelegate.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEViewController.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/propTextField.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/Reachability.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/Reachability.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion normal armv6
+cLd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion normal armv7
+cCreateUniversalBinary /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion normal "armv6 armv7"
+cGenerateDSYMFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app.dSYM /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion
+cProcessProductPackaging "/Users/pier/Library/MobileDevice/Provisioning Profiles/E76C1E9E-906C-4DF1-94D3-9D57C2C00BB5.mobileprovision" /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/embedded.mobileprovision
+cTouch /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion.xcent
+cCodeSign /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC10D700000000000000AB3
+t1287720304
+s2739
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004CC10E6A0000000000001A58
+t1287720554
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC10E7900000000000B0C10
+t1287720569
+s723984
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E4790000000000001533
+t1286857849
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/ifaddrs.h
+c000000004CB3E4840000000000000782
+t1286857860
+s1922
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netdb.h
+c000000004CB3E4A0000000000000307F
+t1286857888
+s12415
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netinet/in.h
+c000000004CBFACDD0000000000005462
+t1287630045
+s21602
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netinet6/in6.h
+c000000004CBFACCD0000000000004F61
+t1287630029
+s20321
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sys/socket.h
+c000000004CBFACD80000000000005A69
+t1287630040
+s23145
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/Reachability.h
+c000000004C34EF790000000000000F1B
+t1278537593
+s3867
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/Reachability.m
+c000000004C34EF79000000000000239B
+t1278537593
+s9115
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.h
+c000000004C9325EA000000000000021D
+t1284711914
+s541
+i<UIKit/UIKit.h>
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m
+c000000004C9325EA0000000000000ABE
+t1284711914
+s2750
+i"iProportion_MOBILEAppDelegate.h"
+i"iProportion_MOBILEViewController.h"
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.h
+c000000004F76E6E20000000000000635
+t1333192418
+s1589
+i"propTextField.h"
+i<UIKit/UIKit.h>
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m
+c000000004F78B6110000000000002AE5
+t1333310993
+s10981
+i"propTextField.h"
+i"iProportion_MOBILEViewController.h"
+i"Reachability.h"
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Icon-Small.png
+c000000004F78B88C0000000000000662
+t1333311628
+s1634
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Icon-Small@2x.png
+c000000004F78B89F00000000000014F2
+t1333311647
+s5362
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Icon.png
+c000000004F78B8600000000000001426
+t1333311584
+s5158
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Icon@2x.png
+c000000004F78B8770000000000004231
+t1333311607
+s16945
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/MainWindow.xib
+c000000004C9325EA0000000000004EAD
+t1284711914
+s20141
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app
+t1332974075
+s442
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app.dSYM
+t1332974074
+s102
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/Info.plist
+t1332706768
+s839
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/MainWindow.nib
+t1332706769
+s1703
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/PkgInfo
+t1332706768
+s8
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/ResourceRules.plist
+t1332706768
+s485
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/embedded.mobileprovision
+t1332970385
+s7310
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportion-MOBILE
+t1332974074
+s103392
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportionBackground.png
+t1332706769
+s118145
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportionLandscape.png
+t1332706769
+s141823
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportion_MOBILEViewController.nib
+t1332974074
+s8665
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app
+t1333311775
+s680
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app.dSYM
+t1333311775
+s102
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon-Small.png
+t1333311772
+s1907
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon-Small@2x.png
+t1333311772
+s6303
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon.png
+t1333311772
+s6043
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon@2x.png
+t1333311772
+s19740
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Info.plist
+t1333311772
+s837
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/MainWindow.nib
+t1333289943
+s1145
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/PkgInfo
+t1333311772
+s8
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/ResourceRules.plist
+t1333289936
+s485
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/embedded.mobileprovision
+t1333289957
+s7310
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion
+t1333311775
+s114120
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion-Icon.jpg
+t1333289940
+s26956
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion.html
+t1333289940
+s1799
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportionBackground.png
+t1333289940
+s118145
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportionLandscape.png
+t1333289940
+s141823
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion_MOBILEViewController.nib
+t1333311773
+s4935
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iprop_icon.png
+t1333289941
+s7814
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/Reachability.o
+t1333311774
+s22308
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion
+t1333311775
+s57248
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion-MOBILE
+t1332974074
+s44448
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion-MOBILE.LinkFileList
+c000000004F6F7DD00000000000000292
+t1332706768
+s658
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion.LinkFileList
+c000000004F78B91C000000000000032F
+t1333311772
+s815
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEAppDelegate.o
+t1333311774
+s51544
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEViewController.o
+t1333311774
+s91964
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/main.o
+t1333311774
+s6468
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/propTextField.o
+t1333311774
+s37984
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/Reachability.o
+t1333311774
+s21912
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion
+t1333311775
+s52680
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion-MOBILE
+t1332974074
+s40008
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion-MOBILE.LinkFileList
+c000000004F6F7DD00000000000000292
+t1332706768
+s658
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion.LinkFileList
+c000000004F78B91C000000000000032F
+t1333311772
+s815
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEAppDelegate.o
+t1333311774
+s51464
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEViewController.o
+t1333311775
+s89188
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/main.o
+t1333311774
+s6452
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/propTextField.o
+t1333311774
+s37960
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-MOBILE.xcent
+t1332706770
+s442
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion.xcent
+t1333311775
+s428
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion-Icon.jpg
+c000000004F77684B000000000000694C
+t1333225547
+s26956
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion.html
+c000000004F7863B50000000000000707
+t1333289909
+s1799
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportionBackground.png
+c000000004C962ECF0000000000016E53
+t1284910799
+s93779
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportionLandscape.png
+c000000004C9627E0000000000001E500
+t1284909024
+s124160
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILEViewController.xib
+c000000004F78B6F100000000000643EF
+t1333311217
+s410607
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILE_Prefix.pch
+c000000004C9325EA00000000000000CD
+t1284711914
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iprop_img/../Icon-Small.png
+c000000004F78B88C0000000000000662
+t1333311628
+s1634
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iprop_img/../Icon-Small@2x.png
+c000000004F78B89F00000000000014F2
+t1333311647
+s5362
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iprop_img/../Icon.png
+c000000004F78B8600000000000001426
+t1333311584
+s5158
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iprop_img/../Icon@2x.png
+c000000004F78B8770000000000004231
+t1333311607
+s16945
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iprop_img/iprop_icon.png
+c000000004F7774DC0000000000001D5C
+t1333228764
+s7516
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m
+c000000004C9325EA0000000000000170
+t1284711914
+s368
+i<UIKit/UIKit.h>
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.h
+c000000004C9378620000000000000155
+t1284733026
+s341
+i<Foundation/Foundation.h>
+
+N/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m
+c000000004C9378670000000000000101
+t1284733031
+s257
+i"propTextField.h"
+
+N/Users/pier/Library/MobileDevice/Provisioning Profiles/E76C1E9E-906C-4DF1-94D3-9D57C2C00BB5.mobileprovision
+c000000004F6F7B6A0000000000001C8E
+t1332706154
+s7310
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/Reachability.h
+c000000004C34EF790000000000000F1B
+t1278537593
+s3867
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.h
+c000000004C9325EA000000000000021D
+t1284711914
+s541
+i<UIKit/UIKit.h>
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m
+c000000004C9325EA0000000000000ABE
+t1284711914
+s2750
+i"iProportion_MOBILEAppDelegate.h"
+i"iProportion_MOBILEViewController.h"
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.h
+c000000004F76E6E20000000000000635
+t1333192418
+s1589
+i"propTextField.h"
+i<UIKit/UIKit.h>
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m
+c000000004F78B5C90000000000002AEF
+t1333310921
+s10991
+i"propTextField.h"
+i"iProportion_MOBILEViewController.h"
+i"Reachability.h"
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/MainWindow.xib
+c000000004C9325EA0000000000004EAD
+t1284711914
+s20141
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app
+t1333310936
+s544
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app.dSYM
+t1333310935
+s102
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Info.plist
+t1333289936
+s851
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/MainWindow.nib
+t1333289943
+s1145
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/PkgInfo
+t1333289936
+s8
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/ResourceRules.plist
+t1333289936
+s485
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/embedded.mobileprovision
+t1333289957
+s7310
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion
+t1333310934
+s114120
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion-Icon.jpg
+t1333289940
+s26956
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion.html
+t1333289940
+s1799
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportionBackground.png
+t1333289940
+s118145
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportionLandscape.png
+t1333289940
+s141823
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion_MOBILEViewController.nib
+t1333289944
+s4937
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iprop_icon.png
+t1333289941
+s7814
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/Reachability.o
+t1333289956
+s22308
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion
+t1333310934
+s57248
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion.LinkFileList
+c000000004F7863D0000000000000032F
+t1333289936
+s815
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEAppDelegate.o
+t1333289956
+s51544
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEViewController.o
+t1333310933
+s91976
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/main.o
+t1333289956
+s6468
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/propTextField.o
+t1333289956
+s37984
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/Reachability.o
+t1333289956
+s21912
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion
+t1333310934
+s52680
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion.LinkFileList
+c000000004F7863D0000000000000032F
+t1333289936
+s815
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEAppDelegate.o
+t1333289956
+s51464
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEViewController.o
+t1333310933
+s89200
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/main.o
+t1333289956
+s6452
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/propTextField.o
+t1333289956
+s37960
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion.xcent
+t1333289957
+s428
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion-Icon.jpg
+c000000004F77684B000000000000694C
+t1333225547
+s26956
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion.html
+c000000004F7863B50000000000000707
+t1333289909
+s1799
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportionBackground.png
+c000000004C962ECF0000000000016E53
+t1284910799
+s93779
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportionLandscape.png
+c000000004C9627E0000000000001E500
+t1284909024
+s124160
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILEViewController.xib
+c000000004F76F61D00000000000643EF
+t1333196317
+s410607
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILE_Prefix.pch
+c000000004C9325EA00000000000000CD
+t1284711914
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iprop_img/iprop_icon.png
+c000000004F7774DC0000000000001D5C
+t1333228764
+s7516
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m
+c000000004C9325EA0000000000000170
+t1284711914
+s368
+i<UIKit/UIKit.h>
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.h
+c000000004C9378620000000000000155
+t1284733026
+s341
+i<Foundation/Foundation.h>
+
+N/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m
+c000000004C9378670000000000000101
+t1284733031
+s257
+i"propTextField.h"
+
+N/var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-afsdfcibsqnqhlcsyfyostczjjyz/iProportion_MOBILE_Prefix.pch.gch
+t1333311774
+s9983704
+
+N/var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-bjkxkufjujerdzcmqntojlkyeqlm/iProportion_MOBILE_Prefix.pch.gch
+t1333311774
+s10446552
+
+N/var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-bsacihxmxywpahetctuyefujgdax/iProportion_MOBILE_Prefix.pch.gch
+t1332706770
+s9983704
+
+N/var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-crjhpoqyhcqpxkeftgdjppqixexh/iProportion_MOBILE_Prefix.pch.gch
+t1333289955
+s10446552
+
+N/var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-dqsqvpkpfhlwcjbexewbtskmgdin/iProportion_MOBILE_Prefix.pch.gch
+t1332706770
+s10446552
+
+N/var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-fevtblibtutmauajtjmucutjqzeh/iProportion_MOBILE_Prefix.pch.gch
+t1333289955
+s9983704
+
+NiProportion-Info.plist
+c000000004F78B91B0000000000000395
+t1333311771
+s917
+
+NiProportion_MOBILE-Info.plist
+c000000004C9325EA000000000000038D
+t1284711914
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies355004571#355004572#0(0"0(0#1#0"8605632480#0"0#
+
+CCodeSign /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app
+s354666874.931270
+e354666875.904561
+r1
+xCodeSign
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app
+lSLF07#2@52"CodeSign build/Debug-iphoneos/iProportion-MOBILE.app354666874#354666875#0(0"0(0#0#93"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app8605719456#755"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Pierluigi Dalla Rosa (SRP3N3JUH2)" --resource-rules=/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/ResourceRules.plist --entitlements /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-MOBILE.xcent /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app0#
+
+CCodeSign /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app
+s355004575.193669
+e355004575.659219
+r1
+xCodeSign
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app
+lSLF07#2@45"CodeSign build/Debug-iphoneos/iProportion.app355004575#355004575#0(0"0(0#0#86"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app8620197824#734"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Pierluigi Dalla Rosa (SRP3N3JUH2)" --resource-rules=/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/ResourceRules.plist --entitlements /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion.xcent /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app0#
+
+CCodeSign /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app
+s355003735.360337
+e355003736.318684
+r1
+xCodeSign
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app
+lSLF07#2@45"CodeSign build/Debug-iphoneos/iProportion.app355003735#355003736#0(0"0(0#0#86"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app8614752320#734"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Pierluigi Dalla Rosa (SRP3N3JUH2)" --resource-rules=/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/ResourceRules.plist --entitlements /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion.xcent /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/Reachability.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/Reachability.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s355004574.592530
+e355004574.785603
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/Reachability.o
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/Reachability.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/Reachability.m355004574#355004574#0(0"0(0#0#72"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/Reachability.m8618645760#2061"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv6 -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-afsdfcibsqnqhlcsyfyostczjjyz/iProportion_MOBILE_Prefix.pch -c /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/Reachability.m -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/Reachability.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEAppDelegate.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s355004574.504806
+e355004574.651071
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEAppDelegate.o
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m355004574#355004574#0(0"0(0#0#89"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m8621960608#2095"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv6 -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-afsdfcibsqnqhlcsyfyostczjjyz/iProportion_MOBILE_Prefix.pch -c /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEAppDelegate.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEAppDelegate.o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s354982755.680430
+e354982756.162687
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEAppDelegate.o
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m354982755#354982756#0(0"0(0#0#89"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m8620729824#2095"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv6 -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-fevtblibtutmauajtjmucutjqzeh/iProportion_MOBILE_Prefix.pch -c /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m -o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEAppDelegate.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEViewController.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s355004574.506050
+e355004574.976112
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEViewController.o
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController viewDidLoad]':
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:152: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController control]':
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:260: warning: incompatible Objective-C types 'struct NSNumber *', expected 'struct NSString *' when passing argument 1 of 'setText:' from distinct Objective-C type
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController calculate:]':
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:267: warning: incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController presentDevSiteView]':
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: 'NSURL' may not respond to '+initFileURLWithPath:isDirectory:'
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: (Messages without a matching method signature
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: will be assumed to return 'id' and accept
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: '...' as arguments.)
+lSLF07#2@100"Compile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355004574#355004574#0(1994"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController viewDidLoad]':/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:152: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController control]':/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:260: warning: incompatible Objective-C types 'struct NSNumber *', expected 'struct NSString *' when passing argument 1 of 'setText:' from distinct Objective-C type/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController calculate:]':/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:267: warning: incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController presentDevSiteView]':/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: 'NSURL' may not respond to '+initFileURLWithPath:isDirectory:'/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: (Messages without a matching method signature/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: will be assumed to return 'id' and accept/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: '...' as arguments.)5(22@198"'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)355004574#157#306#0(6@92"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003793#152#0#152#0#33"'*' is deprecated (declared at *)0(22@149"Incompatible Objective-C types 'struct NSNumber *', expected 'struct NSString *' when passing argument 1 of 'setText:' from distinct Objective-C type355004574#616#257#0(6@92"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003793#260#0#260#0#0"0(22@93"Incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'355004574#1029#201#0(6@92"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003793#267#0#267#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@62"'NSURL' may not respond to '+initFileURLWithPath:isDirectory:'355004574#1394#170#0(6@92"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003793#370#0#370#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)355004574#1564#153#0(6@92"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003793#370#0#370#0#0"0(0#0#92"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m8621494048#2101"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv6 -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-afsdfcibsqnqhlcsyfyostczjjyz/iProportion_MOBILE_Prefix.pch -c /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEViewController.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEViewController.o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s355003725.596174
+e355003733.047287
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEViewController.o
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController viewDidLoad]':
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:152: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController control]':
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:260: warning: incompatible Objective-C types 'struct NSNumber *', expected 'struct NSString *' when passing argument 1 of 'setText:' from distinct Objective-C type
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController calculate:]':
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:267: warning: incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController presentDevSiteView]':
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: 'NSURL' may not respond to '+initFileURLWithPath:isDirectory:'
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: (Messages without a matching method signature
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: will be assumed to return 'id' and accept
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: '...' as arguments.)
+lSLF07#2@100"Compile /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003725#355003733#0(1994"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController viewDidLoad]':/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:152: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController control]':/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:260: warning: incompatible Objective-C types 'struct NSNumber *', expected 'struct NSString *' when passing argument 1 of 'setText:' from distinct Objective-C type/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController calculate:]':/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:267: warning: incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController presentDevSiteView]':/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: 'NSURL' may not respond to '+initFileURLWithPath:isDirectory:'/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: (Messages without a matching method signature/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: will be assumed to return 'id' and accept/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: '...' as arguments.)5(22@198"'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)355003732#157#306#0(6@92"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003721#152#0#152#0#33"'*' is deprecated (declared at *)0(22@149"Incompatible Objective-C types 'struct NSNumber *', expected 'struct NSString *' when passing argument 1 of 'setText:' from distinct Objective-C type355003732#616#257#0(6@92"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003721#260#0#260#0#0"0(22@93"Incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'355003732#1029#201#0(6@92"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003721#267#0#267#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@62"'NSURL' may not respond to '+initFileURLWithPath:isDirectory:'355003732#1394#170#0(6@92"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003721#370#0#370#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)355003732#1564#153#0(6@92"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003721#370#0#370#0#0"0(0#0#92"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m8618887904#2101"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv6 -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-fevtblibtutmauajtjmucutjqzeh/iProportion_MOBILE_Prefix.pch -c /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m -o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion_MOBILEViewController.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/main.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s355004574.503105
+e355004574.592367
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/main.o
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m355004574#355004574#0(0"0(0#0#56"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m8623607808#2037"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv6 -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-afsdfcibsqnqhlcsyfyostczjjyz/iProportion_MOBILE_Prefix.pch -c /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/main.o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s354982755.647319
+e354982756.110378
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/main.o
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m354982755#354982756#0(0"0(0#0#56"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m8595879552#2037"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv6 -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-fevtblibtutmauajtjmucutjqzeh/iProportion_MOBILE_Prefix.pch -c /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m -o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/propTextField.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s355004574.508022
+e355004574.632565
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/propTextField.o
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m355004574#355004574#0(0"0(0#0#65"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m8620771712#2055"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv6 -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-afsdfcibsqnqhlcsyfyostczjjyz/iProportion_MOBILE_Prefix.pch -c /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/propTextField.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/propTextField.o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s354982755.683521
+e354982756.160413
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/propTextField.o
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m354982755#354982756#0(0"0(0#0#65"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m8620558592#2055"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv6 -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-fevtblibtutmauajtjmucutjqzeh/iProportion_MOBILE_Prefix.pch -c /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m -o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/propTextField.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/Reachability.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/Reachability.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s355004574.785758
+e355004574.953401
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/Reachability.o
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/Reachability.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/Reachability.m355004574#355004574#0(0"0(0#0#72"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/Reachability.m8620496736#2061"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv7 -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-bjkxkufjujerdzcmqntojlkyeqlm/iProportion_MOBILE_Prefix.pch -c /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/Reachability.m -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/Reachability.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEAppDelegate.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s355004574.651226
+e355004574.772795
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEAppDelegate.o
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m355004574#355004574#0(0"0(0#0#89"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m8624225600#2095"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv7 -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-bjkxkufjujerdzcmqntojlkyeqlm/iProportion_MOBILE_Prefix.pch -c /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEAppDelegate.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEAppDelegate.o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s354982756.162866
+e354982756.326299
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEAppDelegate.o
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m354982756#354982756#0(0"0(0#0#89"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m8620436736#2095"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv7 -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-crjhpoqyhcqpxkeftgdjppqixexh/iProportion_MOBILE_Prefix.pch -c /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEAppDelegate.m -o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEAppDelegate.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEViewController.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s355004574.732268
+e355004575.051036
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEViewController.o
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController viewDidLoad]':
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:152: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController control]':
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:260: warning: incompatible Objective-C types 'struct NSNumber *', expected 'struct NSString *' when passing argument 1 of 'setText:' from distinct Objective-C type
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController calculate:]':
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:267: warning: incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController presentDevSiteView]':
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: 'NSURL' may not respond to '+initFileURLWithPath:isDirectory:'
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: (Messages without a matching method signature
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: will be assumed to return 'id' and accept
+o/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: '...' as arguments.)
+lSLF07#2@100"Compile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355004574#355004575#0(1994"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController viewDidLoad]':/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:152: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController control]':/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:260: warning: incompatible Objective-C types 'struct NSNumber *', expected 'struct NSString *' when passing argument 1 of 'setText:' from distinct Objective-C type/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController calculate:]':/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:267: warning: incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController presentDevSiteView]':/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: 'NSURL' may not respond to '+initFileURLWithPath:isDirectory:'/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: (Messages without a matching method signature/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: will be assumed to return 'id' and accept/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: '...' as arguments.)5(22@198"'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)355004574#157#306#0(6@92"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003793#152#0#152#0#33"'*' is deprecated (declared at *)0(22@149"Incompatible Objective-C types 'struct NSNumber *', expected 'struct NSString *' when passing argument 1 of 'setText:' from distinct Objective-C type355004574#616#257#0(6@92"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003793#260#0#260#0#0"0(22@93"Incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'355004574#1029#201#0(6@92"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003793#267#0#267#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@62"'NSURL' may not respond to '+initFileURLWithPath:isDirectory:'355004574#1394#170#0(6@92"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003793#370#0#370#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)355004574#1564#153#0(6@92"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003793#370#0#370#0#0"0(0#0#92"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m8622166432#2101"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv7 -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-bjkxkufjujerdzcmqntojlkyeqlm/iProportion_MOBILE_Prefix.pch -c /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEViewController.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEViewController.o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s355003725.634471
+e355003733.115458
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEViewController.o
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController viewDidLoad]':
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:152: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController control]':
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:260: warning: incompatible Objective-C types 'struct NSNumber *', expected 'struct NSString *' when passing argument 1 of 'setText:' from distinct Objective-C type
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController calculate:]':
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:267: warning: incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController presentDevSiteView]':
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: 'NSURL' may not respond to '+initFileURLWithPath:isDirectory:'
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: (Messages without a matching method signature
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: will be assumed to return 'id' and accept
+o/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: '...' as arguments.)
+lSLF07#2@100"Compile /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003725#355003733#0(1994"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController viewDidLoad]':/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:152: warning: 'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController control]':/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:260: warning: incompatible Objective-C types 'struct NSNumber *', expected 'struct NSString *' when passing argument 1 of 'setText:' from distinct Objective-C type/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController calculate:]':/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:267: warning: incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m: In function '-[iProportion_MOBILEViewController presentDevSiteView]':/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: 'NSURL' may not respond to '+initFileURLWithPath:isDirectory:'/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: (Messages without a matching method signature/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: will be assumed to return 'id' and accept/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m:370: warning: '...' as arguments.)5(22@198"'setStatusBarHidden:animated:' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:271)355003732#157#306#0(6@92"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003721#152#0#152#0#33"'*' is deprecated (declared at *)0(22@149"Incompatible Objective-C types 'struct NSNumber *', expected 'struct NSString *' when passing argument 1 of 'setText:' from distinct Objective-C type355003732#616#257#0(6@92"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003721#260#0#260#0#0"0(22@93"Incompatible Objective-C types initializing 'struct NSNumber *', expected 'struct NSString *'355003732#1029#201#0(6@92"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003721#267#0#267#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@62"'NSURL' may not respond to '+initFileURLWithPath:isDirectory:'355003732#1394#170#0(6@92"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003721#370#0#370#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)355003732#1564#153#0(6@92"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m355003721#370#0#370#0#0"0(0#0#92"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m8625311136#2101"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv7 -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-crjhpoqyhcqpxkeftgdjppqixexh/iProportion_MOBILE_Prefix.pch -c /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Classes/iProportion_MOBILEViewController.m -o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion_MOBILEViewController.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/main.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s355004574.632729
+e355004574.732117
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/main.o
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m355004574#355004574#0(0"0(0#0#56"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m8625483712#2037"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv7 -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-bjkxkufjujerdzcmqntojlkyeqlm/iProportion_MOBILE_Prefix.pch -c /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/main.o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s354982756.160573
+e354982756.263284
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/main.o
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m354982756#354982756#0(0"0(0#0#56"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m8620577920#2037"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv7 -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-crjhpoqyhcqpxkeftgdjppqixexh/iProportion_MOBILE_Prefix.pch -c /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/main.m -o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/propTextField.o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s355004574.772940
+e355004574.886142
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/propTextField.o
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m355004574#355004574#0(0"0(0#0#65"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m8621012512#2055"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv7 -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-bjkxkufjujerdzcmqntojlkyeqlm/iProportion_MOBILE_Prefix.pch -c /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/propTextField.o0#
+
+CCompileC build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/propTextField.o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s354982756.326485
+e354982756.454951
+r1
+xCompileC
+xbuild/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/propTextField.o
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m354982756#354982756#0(0"0(0#0#65"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m8619058656#2055"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv7 -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -include /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-crjhpoqyhcqpxkeftgdjppqixexh/iProportion_MOBILE_Prefix.pch -c /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/propTextField.m -o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/propTextField.o0#
+
+CCompileXIB /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/MainWindow.xib
+s354399568.893234
+e354399569.343531
+r1
+xCompileXIB
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib354399568#354399569#0(0"0(0#0#64"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/MainWindow.xib8610427584#588"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/MainWindow.nib /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILEViewController.xib
+s355004572.238059
+e355004573.122733
+r1
+xCompileXIB
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILEViewController.xib
+lSLF07#2@47"CompileXIB iProportion_MOBILEViewController.xib355004572#355004573#0(0"0(0#0#86"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILEViewController.xib8623725120#623"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion_MOBILEViewController.nib /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILEViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/MainWindow.xib
+s354982736.444715
+e354982743.867859
+r1
+xCompileXIB
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib354982736#354982743#0(0"0(0#0#64"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/MainWindow.xib8620502880#579"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/MainWindow.nib /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILEViewController.xib
+s354982736.445835
+e354982744.391979
+r1
+xCompileXIB
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILEViewController.xib
+lSLF07#2@47"CompileXIB iProportion_MOBILEViewController.xib354982736#354982744#0(0"0(0#0#86"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILEViewController.xib8620273056#623"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion_MOBILEViewController.nib /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILEViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportionBackground.png iProportionBackground.png
+s354399568.895918
+e354399569.018119
+r1
+xCopyPNGFile
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportionBackground.png
+xiProportionBackground.png
+lSLF07#2@107"CopyPNGFile build/Debug-iphoneos/iProportion-MOBILE.app/iProportionBackground.png iProportionBackground.png354399568#354399569#0(0"0(0#0#75"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportionBackground.png8609590048#634"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportionBackground.png /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportionBackground.png0#
+
+CCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportionLandscape.png iProportionLandscape.png
+s354399568.894928
+e354399569.044573
+r1
+xCopyPNGFile
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportionLandscape.png
+xiProportionLandscape.png
+lSLF07#2@105"CopyPNGFile build/Debug-iphoneos/iProportion-MOBILE.app/iProportionLandscape.png iProportionLandscape.png354399568#354399569#0(0"0(0#0#74"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportionLandscape.png8609650144#632"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportionLandscape.png /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportionLandscape.png0#
+
+CCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon-Small.png Icon-Small.png
+s355004572.239494
+e355004572.856666
+r1
+xCopyPNGFile
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon-Small.png
+xIcon-Small.png
+lSLF07#2@78"CopyPNGFile build/Debug-iphoneos/iProportion.app/Icon-Small.png Icon-Small.png355004572#355004572#0(0"0(0#0#64"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Icon-Small.png8623534112#605"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Icon-Small.png /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon-Small.png0#
+
+CCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon-Small.png iprop_img/../Icon-Small.png
+r0
+
+CCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon-Small@2x.png Icon-Small@2x.png
+s355004572.240404
+e355004572.856912
+r1
+xCopyPNGFile
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon-Small@2x.png
+xIcon-Small@2x.png
+lSLF07#2@84"CopyPNGFile build/Debug-iphoneos/iProportion.app/Icon-Small@2x.png Icon-Small@2x.png355004572#355004572#0(0"0(0#0#67"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Icon-Small@2x.png8622089600#611"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Icon-Small@2x.png /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon-Small@2x.png0#
+
+CCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon-Small@2x.png iprop_img/../Icon-Small@2x.png
+r0
+
+CCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon.png Icon.png
+s355004572.241298
+e355004572.857212
+r1
+xCopyPNGFile
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon.png
+xIcon.png
+lSLF07#2@66"CopyPNGFile build/Debug-iphoneos/iProportion.app/Icon.png Icon.png355004572#355004572#0(0"0(0#0#58"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Icon.png8621837376#593"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Icon.png /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon.png0#
+
+CCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon.png iprop_img/../Icon.png
+r0
+
+CCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon@2x.png Icon@2x.png
+s355004572.857335
+e355004572.960455
+r1
+xCopyPNGFile
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon@2x.png
+xIcon@2x.png
+lSLF07#2@72"CopyPNGFile build/Debug-iphoneos/iProportion.app/Icon@2x.png Icon@2x.png355004572#355004572#0(0"0(0#0#61"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Icon@2x.png8620163680#599"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/Icon@2x.png /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon@2x.png0#
+
+CCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Icon@2x.png iprop_img/../Icon@2x.png
+r0
+
+CCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportionBackground.png iProportionBackground.png
+r0
+
+CCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportionLandscape.png iProportionLandscape.png
+r0
+
+CCopyPNGFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iprop_icon.png iprop_img/iprop_icon.png
+r0
+
+CCopyPNGFile /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportionBackground.png iProportionBackground.png
+s354982736.447717
+e354982740.647170
+r1
+xCopyPNGFile
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportionBackground.png
+xiProportionBackground.png
+lSLF07#2@100"CopyPNGFile build/Debug-iphoneos/iProportion.app/iProportionBackground.png iProportionBackground.png354982736#354982740#0(0"0(0#0#75"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportionBackground.png8619600000#627"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportionBackground.png /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportionBackground.png0#
+
+CCopyPNGFile /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportionLandscape.png iProportionLandscape.png
+s354982736.446802
+e354982740.694759
+r1
+xCopyPNGFile
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportionLandscape.png
+xiProportionLandscape.png
+lSLF07#2@98"CopyPNGFile build/Debug-iphoneos/iProportion.app/iProportionLandscape.png iProportionLandscape.png354982736#354982740#0(0"0(0#0#74"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportionLandscape.png8619825696#625"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportionLandscape.png /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportionLandscape.png0#
+
+CCopyPNGFile /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iprop_icon.png iprop_img/iprop_icon.png
+s354982740.648596
+e354982741.445273
+r1
+xCopyPNGFile
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iprop_icon.png
+xiprop_img/iprop_icon.png
+lSLF07#2@88"CopyPNGFile build/Debug-iphoneos/iProportion.app/iprop_icon.png iprop_img/iprop_icon.png354982740#354982741#0(0"0(0#0#74"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iprop_img/iprop_icon.png8621280448#615"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iprop_img/iprop_icon.png /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iprop_icon.png0#
+
+CCpResource build/Debug-iphoneos/iProportion-MOBILE.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s354399568.816312
+e354399568.893154
+r1
+xCpResource
+xbuild/Debug-iphoneos/iProportion-MOBILE.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist354399568#354399568#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist7308901739085246464#527"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app0#
+
+CCpResource build/Debug-iphoneos/iProportion.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s354982736.136066
+e354982736.410008
+r1
+xCpResource
+xbuild/Debug-iphoneos/iProportion.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist354982736#354982736#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8619526848#520"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app0#
+
+CCpResource build/Debug-iphoneos/iProportion.app/iProportion-Icon.jpg iProportion-Icon.jpg
+s354982740.647418
+e354982740.693886
+r1
+xCpResource
+xbuild/Debug-iphoneos/iProportion.app/iProportion-Icon.jpg
+xiProportion-Icon.jpg
+lSLF07#2@25"Copy iProportion-Icon.jpg354982740#354982740#0(0"0(0#0#70"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion-Icon.jpg8618573152#501"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion-Icon.jpg /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app0#
+
+CCpResource build/Debug-iphoneos/iProportion.app/iProportion.html iProportion.html
+s354982740.694877
+e354982740.727646
+r1
+xCpResource
+xbuild/Debug-iphoneos/iProportion.app/iProportion.html
+xiProportion.html
+lSLF07#2@21"Copy iProportion.html354982740#354982740#0(0"0(0#0#66"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion.html8613889536#497"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion.html /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app0#
+
+CCreateUniversalBinary /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportion-MOBILE normal "armv6 armv7"
+s354666874.828359
+e354666874.870796
+r1
+xCreateUniversalBinary
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportion-MOBILE
+xnormal
+xarmv6 armv7
+lSLF07#2@105"CreateUniversalBinary build/Debug-iphoneos/iProportion-MOBILE.app/iProportion-MOBILE normal "armv6 armv7"354666874#354666874#0(0"0(0#0#61"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/armv6 armv78609936384#650"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion-MOBILE /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion-MOBILE -output /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportion-MOBILE0#
+
+CCreateUniversalBinary /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion normal "armv6 armv7"
+s355004575.089469
+e355004575.094282
+r1
+xCreateUniversalBinary
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion
+xnormal
+xarmv6 armv7
+lSLF07#2@91"CreateUniversalBinary build/Debug-iphoneos/iProportion.app/iProportion normal "armv6 armv7"355004575#355004575#0(0"0(0#0#61"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/armv6 armv78602411456#622"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion -output /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion0#
+
+CCreateUniversalBinary /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion normal "armv6 armv7"
+s355003734.490366
+e355003734.582743
+r1
+xCreateUniversalBinary
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion
+xnormal
+xarmv6 armv7
+lSLF07#2@91"CreateUniversalBinary build/Debug-iphoneos/iProportion.app/iProportion normal "armv6 armv7"355003734#355003734#0(0"0(0#0#61"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/armv6 armv78625583136#622"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion -output /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion0#
+
+CGenerateDSYMFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app.dSYM /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportion-MOBILE
+s354666874.870925
+e354666874.927947
+r1
+xGenerateDSYMFile
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app.dSYM
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportion-MOBILE
+lSLF07#2@128"GenerateDSYMFile build/Debug-iphoneos/iProportion-MOBILE.app.dSYM build/Debug-iphoneos/iProportion-MOBILE.app/iProportion-MOBILE354666874#354666874#0(0"0(0#0#112"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportion-MOBILE8608071424#428"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/iProportion-MOBILE -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app.dSYM0#
+
+CGenerateDSYMFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app.dSYM /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion
+s355004575.094383
+e355004575.154536
+r1
+xGenerateDSYMFile
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app.dSYM
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion
+lSLF07#2@107"GenerateDSYMFile build/Debug-iphoneos/iProportion.app.dSYM build/Debug-iphoneos/iProportion.app/iProportion355004575#355004575#0(0"0(0#0#98"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion8602107488#407"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app.dSYM0#
+
+CGenerateDSYMFile /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app.dSYM /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion
+s355003734.582931
+e355003735.340288
+r1
+xGenerateDSYMFile
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app.dSYM
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion
+lSLF07#2@107"GenerateDSYMFile build/Debug-iphoneos/iProportion.app.dSYM build/Debug-iphoneos/iProportion.app/iProportion355003734#355003735#0(0"0(0#0#98"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion8621999808#407"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/iProportion -o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app.dSYM0#
+
+CLd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion normal armv6
+s355004574.976255
+e355004575.040685
+r1
+xLd
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion
+xnormal
+xarmv6
+lSLF07#2@158"Link /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion355004574#355004575#0(0"0(0#0#0"8621331712#997"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -filelist /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework SystemConfiguration -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion0#
+
+CLd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion-MOBILE normal armv6
+s354666874.782795
+e354666874.828241
+r1
+xLd
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion-MOBILE
+xnormal
+xarmv6
+lSLF07#2@165"Link /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion-MOBILE354666874#354666874#0(0"0(0#0#0"8616115136#984"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -filelist /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion-MOBILE.LinkFileList -dead_strip -miphoneos-version-min=4.0.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion-MOBILE0#
+
+CLd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion normal armv7
+s355004575.051146
+e355004575.089321
+r1
+xLd
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion
+xnormal
+xarmv7
+lSLF07#2@158"Link /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion355004575#355004575#0(0"0(0#0#0"8605008640#997"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -filelist /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework SystemConfiguration -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion0#
+
+CLd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion-MOBILE normal armv7
+s354666874.732300
+e354666874.813103
+r1
+xLd
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion-MOBILE
+xnormal
+xarmv7
+lSLF07#2@165"Link /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion-MOBILE354666874#354666874#0(0"0(0#0#0"8616718336#984"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -filelist /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion-MOBILE.LinkFileList -dead_strip -miphoneos-version-min=4.0.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion-MOBILE0#
+
+CLd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion normal armv6
+s355003733.047479
+e355003734.490200
+r1
+xLd
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion
+xnormal
+xarmv6
+lSLF07#2@158"Link /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion355003733#355003734#0(0"0(0#0#0"8620338688#997"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -F/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -filelist /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework SystemConfiguration -o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv6/iProportion0#
+
+CLd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion normal armv7
+s355003733.115603
+e355003734.488864
+r1
+xLd
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion
+xnormal
+xarmv7
+lSLF07#2@158"Link /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion355003733#355003734#0(0"0(0#0#0"8619977120#997"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -F/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -filelist /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework SystemConfiguration -o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/Objects-normal/armv7/iProportion0#
+
+CProcessInfoPlistFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/Info.plist iProportion_MOBILE-Info.plist
+s354399568.857750
+e354399568.875452
+r1
+xProcessInfoPlistFile
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/Info.plist
+xiProportion_MOBILE-Info.plist
+lSLF07#2@37"Process iProportion_MOBILE-Info.plist354399568#354399568#0(0"0(0#0#79"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILE-Info.plist8612247744#650"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iProportion_MOBILE-Info.plist -genpkginfo /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/ResourceRules.plist -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Info.plist iProportion-Info.plist
+s355004572.224478
+e355004572.237802
+r1
+xProcessInfoPlistFile
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Info.plist
+xiProportion-Info.plist
+lSLF07#2@30"Process iProportion-Info.plist355004572#355004572#0(0"0(0#0#72"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion-Info.plist8624499616#622"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iProportion-Info.plist -genpkginfo /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/ResourceRules.plist -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Info.plist0#
+
+CProcessInfoPlistFile /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Info.plist iProportion-Info.plist
+s354982736.137407
+e354982736.444576
+r1
+xProcessInfoPlistFile
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Info.plist
+xiProportion-Info.plist
+lSLF07#2@30"Process iProportion-Info.plist354982736#354982736#0(0"0(0#0#72"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion-Info.plist8614607072#622"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iProportion-Info.plist -genpkginfo /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/ResourceRules.plist -o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/Info.plist0#
+
+CProcessPCH /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-afsdfcibsqnqhlcsyfyostczjjyz/iProportion_MOBILE_Prefix.pch.gch iProportion_MOBILE_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s355004573.122910
+e355004574.502954
+r1
+xProcessPCH
+x/var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-afsdfcibsqnqhlcsyfyostczjjyz/iProportion_MOBILE_Prefix.pch.gch
+xiProportion_MOBILE_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile iProportion_MOBILE_Prefix.pch355004573#355004574#0(0"0(0#0#79"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILE_Prefix.pch8621771424#1913"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv6 -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -c /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILE_Prefix.pch -o /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-afsdfcibsqnqhlcsyfyostczjjyz/iProportion_MOBILE_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-bjkxkufjujerdzcmqntojlkyeqlm/iProportion_MOBILE_Prefix.pch.gch iProportion_MOBILE_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s355004573.124367
+e355004574.490774
+r1
+xProcessPCH
+x/var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-bjkxkufjujerdzcmqntojlkyeqlm/iProportion_MOBILE_Prefix.pch.gch
+xiProportion_MOBILE_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile iProportion_MOBILE_Prefix.pch355004573#355004574#0(0"0(0#0#79"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILE_Prefix.pch8628071968#1913"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv7 -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -c /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILE_Prefix.pch -o /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-bjkxkufjujerdzcmqntojlkyeqlm/iProportion_MOBILE_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-bsacihxmxywpahetctuyefujgdax/iProportion_MOBILE_Prefix.pch.gch iProportion_MOBILE_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s354399569.495275
+e354399570.572437
+r1
+xProcessPCH
+x/var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-bsacihxmxywpahetctuyefujgdax/iProportion_MOBILE_Prefix.pch.gch
+xiProportion_MOBILE_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile iProportion_MOBILE_Prefix.pch354399569#354399570#0(0"0(0#0#79"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILE_Prefix.pch8612512000#1943"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0.2 -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-MOBILE-generated-files.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-MOBILE-own-target-headers.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-MOBILE-all-target-headers.hmap -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-MOBILE-project-headers.hmap -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv6 -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -c /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILE_Prefix.pch -o /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-bsacihxmxywpahetctuyefujgdax/iProportion_MOBILE_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-crjhpoqyhcqpxkeftgdjppqixexh/iProportion_MOBILE_Prefix.pch.gch iProportion_MOBILE_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s354982744.423720
+e354982755.647185
+r1
+xProcessPCH
+x/var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-crjhpoqyhcqpxkeftgdjppqixexh/iProportion_MOBILE_Prefix.pch.gch
+xiProportion_MOBILE_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile iProportion_MOBILE_Prefix.pch354982744#354982755#0(0"0(0#0#79"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILE_Prefix.pch8618539584#1913"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv7 -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -c /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILE_Prefix.pch -o /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-crjhpoqyhcqpxkeftgdjppqixexh/iProportion_MOBILE_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-dqsqvpkpfhlwcjbexewbtskmgdin/iProportion_MOBILE_Prefix.pch.gch iProportion_MOBILE_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s354399569.496344
+e354399570.597127
+r1
+xProcessPCH
+x/var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-dqsqvpkpfhlwcjbexewbtskmgdin/iProportion_MOBILE_Prefix.pch.gch
+xiProportion_MOBILE_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile iProportion_MOBILE_Prefix.pch354399569#354399570#0(0"0(0#0#79"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILE_Prefix.pch8601513728#1943"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0.2 -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-MOBILE-generated-files.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-MOBILE-own-target-headers.hmap -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-MOBILE-all-target-headers.hmap -iquote /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-MOBILE-project-headers.hmap -F/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv7 -I/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -c /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILE_Prefix.pch -o /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-dqsqvpkpfhlwcjbexewbtskmgdin/iProportion_MOBILE_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-fevtblibtutmauajtjmucutjqzeh/iProportion_MOBILE_Prefix.pch.gch iProportion_MOBILE_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s354982744.392146
+e354982755.639457
+r1
+xProcessPCH
+x/var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-fevtblibtutmauajtjmucutjqzeh/iProportion_MOBILE_Prefix.pch.gch
+xiProportion_MOBILE_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile iProportion_MOBILE_Prefix.pch354982744#354982755#0(0"0(0#0#79"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILE_Prefix.pch8619525120#1913"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-generated-files.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-own-target-headers.hmap -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-all-target-headers.hmap -iquote /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-project-headers.hmap -F/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/include -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources/armv6 -I/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/DerivedSources -c /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/iProportion_MOBILE_Prefix.pch -o /var/folders/11/11HMqhHxHs0TPrMfxLq5N++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/iProportion_MOBILE_Prefix-fevtblibtutmauajtjmucutjqzeh/iProportion_MOBILE_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/pier/Library/MobileDevice/Provisioning Profiles/E76C1E9E-906C-4DF1-94D3-9D57C2C00BB5.mobileprovision" /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/embedded.mobileprovision
+s354663185.836264
+e354663185.844183
+r1
+xProcessProductPackaging
+x/Users/pier/Library/MobileDevice/Provisioning Profiles/E76C1E9E-906C-4DF1-94D3-9D57C2C00BB5.mobileprovision
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/embedded.mobileprovision
+lSLF07#2@202"ProcessProductPackaging "/Users/pier/Library/MobileDevice/Provisioning Profiles/E76C1E9E-906C-4DF1-94D3-9D57C2C00BB5.mobileprovision" build/Debug-iphoneos/iProportion-MOBILE.app/embedded.mobileprovision354663185#354663185#0(0"0(0#0#118"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/embedded.mobileprovision8617320704#455"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/pier/Library/MobileDevice/Provisioning Profiles/E76C1E9E-906C-4DF1-94D3-9D57C2C00BB5.mobileprovision" -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/pier/Library/MobileDevice/Provisioning Profiles/E76C1E9E-906C-4DF1-94D3-9D57C2C00BB5.mobileprovision" /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging "/Users/pier/Library/MobileDevice/Provisioning Profiles/E76C1E9E-906C-4DF1-94D3-9D57C2C00BB5.mobileprovision" /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/embedded.mobileprovision
+s354982757.480848
+e354982757.545506
+r1
+xProcessProductPackaging
+x/Users/pier/Library/MobileDevice/Provisioning Profiles/E76C1E9E-906C-4DF1-94D3-9D57C2C00BB5.mobileprovision
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/embedded.mobileprovision
+lSLF07#2@195"ProcessProductPackaging "/Users/pier/Library/MobileDevice/Provisioning Profiles/E76C1E9E-906C-4DF1-94D3-9D57C2C00BB5.mobileprovision" build/Debug-iphoneos/iProportion.app/embedded.mobileprovision354982757#354982757#0(0"0(0#0#111"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/embedded.mobileprovision8620635904#448"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/pier/Library/MobileDevice/Provisioning Profiles/E76C1E9E-906C-4DF1-94D3-9D57C2C00BB5.mobileprovision" -o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-MOBILE.xcent
+s354399570.962437
+e354399570.993091
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-MOBILE.xcent
+lSLF07#2@208"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-MOBILE.xcent354399570#354399570#0(0"0(0#0#145"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-MOBILE.xcent8596116352#487"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion-MOBILE.xcent0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion.xcent
+s355004575.160580
+e355004575.193586
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion.xcent
+lSLF07#2@201"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion.xcent355004575#355004575#0(0"0(0#0#138"/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion.xcent8600224160#480"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion.xcent0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion.xcent
+s354982757.552649
+e354982757.567128
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion.xcent
+lSLF07#2@201"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion.xcent354982757#354982757#0(0"0(0#0#138"/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion.xcent8619575840#480"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/iProportion-MOBILE.build/Debug-iphoneos/iProportion-MOBILE.build/iProportion.xcent0#
+
+CTouch /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app
+s354666874.928217
+e354666874.931034
+r1
+xTouch
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app
+lSLF07#2@99"Touch /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app354666874#354666874#0(0"0(0#0#0"8605718304#297"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion-MOBILE.app0#
+
+CTouch /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app
+s355004575.154827
+e355004575.160428
+r1
+xTouch
+x/Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app
+lSLF07#2@92"Touch /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app355004575#355004575#0(0"0(0#0#0"8601329920#290"    cd /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app0#
+
+CTouch /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app
+s355003735.340633
+e355003735.360056
+r1
+xTouch
+x/users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app
+lSLF07#2@92"Touch /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app355003735#355003735#0(0"0(0#0#0"8608304064#290"    cd /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /users/pier/Desktop/Pier/Xcode/iProportion-MOBILE/build/Debug-iphoneos/iProportion.app0#
+
